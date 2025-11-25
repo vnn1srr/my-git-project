@@ -1,3 +1,4 @@
-version 1.0
-api_url: https://api.main.com
+version: 2.0
+api_url: https://api.production.com
 debug: false
+new_feature: enabled
