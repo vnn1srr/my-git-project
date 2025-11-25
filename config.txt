@@ -1,0 +1,3 @@
+version 1.0
+api_url: https://api.main.com
+debug: false
